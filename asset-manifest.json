@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.4450df58.chunk.css",
+    "main.js": "/Portfolio/static/js/main.802fb655.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.802fb655.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.9e287cfb.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.9e287cfb.js.map",
+    "static/js/2.52b71921.chunk.js": "/Portfolio/static/js/2.52b71921.chunk.js",
+    "static/js/2.52b71921.chunk.js.map": "/Portfolio/static/js/2.52b71921.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.90d7a6a3027b13f7e0d0038df95fe124.js": "/Portfolio/precache-manifest.90d7a6a3027b13f7e0d0038df95fe124.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.4450df58.chunk.css.map": "/Portfolio/static/css/main.4450df58.chunk.css.map",
+    "static/js/2.52b71921.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.52b71921.chunk.js.LICENSE.txt",
+    "static/media/Capture.webp": "/Portfolio/static/media/Capture.6fe07119.webp",
+    "static/media/Capture2.webp": "/Portfolio/static/media/Capture2.5e8bd580.webp",
+    "static/media/Capture3.webp": "/Portfolio/static/media/Capture3.c19b209a.webp",
+    "static/media/Capture6.webp": "/Portfolio/static/media/Capture6.3752cb81.webp",
+    "static/media/home-page.styles.scss": "/Portfolio/static/media/bg.d11f53a4.webp",
+    "static/media/blob.e056943d.svg": "/Portfolio/static/media/blob.e056943d.svg",
+    "static/media/facebook.57d3f125.svg": "/Portfolio/static/media/facebook.57d3f125.svg",
+    "static/media/firebase-1.7f8d489c.svg": "/Portfolio/static/media/firebase-1.7f8d489c.svg",
+    "static/media/github-1.0ff1a6f0.svg": "/Portfolio/static/media/github-1.0ff1a6f0.svg",
+    "static/media/instagram.5b23a837.svg": "/Portfolio/static/media/instagram.5b23a837.svg",
+    "static/media/linkedin.9e36c8fd.svg": "/Portfolio/static/media/linkedin.9e36c8fd.svg",
+    "static/media/logo-algolia-square-dark.7ff65e96.svg": "/Portfolio/static/media/logo-algolia-square-dark.7ff65e96.svg",
+    "static/media/me.webp": "/Portfolio/static/media/me.80e6f1db.webp",
+    "static/media/mongodb.4643494b.svg": "/Portfolio/static/media/mongodb.4643494b.svg",
+    "static/media/nodejs-icon.b337a2fb.svg": "/Portfolio/static/media/nodejs-icon.b337a2fb.svg",
+    "static/media/previous.e89c97dd.svg": "/Portfolio/static/media/previous.e89c97dd.svg",
+    "static/media/react-2.c3fbd71b.svg": "/Portfolio/static/media/react-2.c3fbd71b.svg",
+    "static/media/redux.aa0a3376.svg": "/Portfolio/static/media/redux.aa0a3376.svg",
+    "static/media/vue-js-1.69cedcf3.svg": "/Portfolio/static/media/vue-js-1.69cedcf3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e287cfb.js",
+    "static/js/2.52b71921.chunk.js",
+    "static/css/main.4450df58.chunk.css",
+    "static/js/main.802fb655.chunk.js"
+  ]
+}
