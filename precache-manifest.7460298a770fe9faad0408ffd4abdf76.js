@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b77befb521690d52e426fd6ea590f826",
+    "revision": "197e8429bb770a111295b3d65c1234d0",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "9205520ad59a2c3e7da1",
+    "revision": "890841241c00e0ac7d61",
     "url": "/Portfolio/static/css/main.4450df58.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.52b71921.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9205520ad59a2c3e7da1",
-    "url": "/Portfolio/static/js/main.802fb655.chunk.js"
+    "revision": "890841241c00e0ac7d61",
+    "url": "/Portfolio/static/js/main.d93a64f0.chunk.js"
   },
   {
     "revision": "627bdb01d220a474fd8b",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/logo-algolia-square-dark.7ff65e96.svg"
   },
   {
-    "revision": "80e6f1db7ba281383f66bd584a340b64",
-    "url": "/Portfolio/static/media/me.80e6f1db.webp"
+    "revision": "1933e7dea9be54825f9f9b021eccb4df",
+    "url": "/Portfolio/static/media/me.1933e7de.webp"
   },
   {
     "revision": "4643494b26276d291b810d5610789aa7",
